@@ -8,7 +8,7 @@
         int populacao = 1865707;
         float area = 218;
         float pib = 54.970;
-        int Pturistico = 15;
+        int Pturistico = 50;
 
         char estado2[30] = "Alagoas";
         char carta2[25] = "B02";
